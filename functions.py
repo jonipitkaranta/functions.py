@@ -25,4 +25,4 @@ def lotto():
 
 
 lotto()
-print(lotto().__doc__)
+print(lotto.__doc__)
